@@ -7,7 +7,7 @@ on:
 
 
 jobs: 
-imprimir_mensaje:
+  imprimir_mensaje:
     runs-on: ubuntu-lastest
     steps: 
       - name: Imprimir mensaje
